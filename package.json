@@ -1,5 +1,5 @@
 {
-  "name": "fetch",
+  "name": "better-fetch",
   "version": "1.0.0",
   "description": "Upgraded fetch.",
   "main": "Fetch.min.js",
