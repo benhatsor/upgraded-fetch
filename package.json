@@ -1,0 +1,22 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "Upgraded fetch.",
+  "main": "Fetch.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhatsor/Fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "js",
+    "http",
+    "request"
+  ],
+  "author": "benhatsor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benhatsor/Fetch/issues"
+  },
+  "homepage": "https://github.com/benhatsor/Fetch#readme"
+}
