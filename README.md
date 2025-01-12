@@ -1,6 +1,6 @@
 # Fetch
 
-Upgraded [`fetch`].
+Upgraded [`fetch`], with a focus on syntax improvements.
 
 ## Examples
 
