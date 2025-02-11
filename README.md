@@ -2,6 +2,13 @@
 
 Upgraded [`fetch`], with a focus on better syntax.
 
+## Usage
+
+Import the script in your HTML:
+```HTML
+<script src="https://unpkg.com/upgraded-fetch/Fetch.min.js"></script>
+```
+
 ## Examples
 
 ```JS
